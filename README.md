@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @lucaschinaglia
+- I'm a UX and Product person trying to code somethings on my spare time. Building www.facilitahub.com.br in public
